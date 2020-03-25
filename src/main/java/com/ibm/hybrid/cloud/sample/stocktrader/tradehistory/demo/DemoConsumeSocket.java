@@ -40,7 +40,6 @@ import org.apache.log4j.Logger;
 
 import com.ibm.hybrid.cloud.sample.stocktrader.tradehistory.mongo.MongoConnector;
 import com.ibm.hybrid.cloud.sample.stocktrader.tradehistory.mongo.StockPurchase;
-import com.sun.corba.se.spi.activation._ActivatorImplBase;
 import com.ibm.hybrid.cloud.sample.stocktrader.tradehistory.kafka.Consumer;
 
 import javax.inject.Inject;
